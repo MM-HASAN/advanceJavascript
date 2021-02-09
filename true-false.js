@@ -18,3 +18,14 @@ if(age){
 }else{
   console.log("false ")
 }
+
+
+//false values in javascript: 
+//if(false)
+//if(null)
+//if(undefined)
+//if(0)
+//if(-0)
+//if(0n)
+//if(Nan)
+//if("")||if('')
